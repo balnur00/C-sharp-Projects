@@ -1,0 +1,7 @@
+C:\Users\Bestriess\source\repos\Svetofor\Svetofor\bin\Debug\Svetofor.exe.config
+C:\Users\Bestriess\source\repos\Svetofor\Svetofor\bin\Debug\Svetofor.exe
+C:\Users\Bestriess\source\repos\Svetofor\Svetofor\bin\Debug\Svetofor.pdb
+C:\Users\Bestriess\source\repos\Svetofor\Svetofor\obj\Debug\Svetofor.csprojResolveAssemblyReference.cache
+C:\Users\Bestriess\source\repos\Svetofor\Svetofor\obj\Debug\Svetofor.csproj.CoreCompileInputs.cache
+C:\Users\Bestriess\source\repos\Svetofor\Svetofor\obj\Debug\Svetofor.exe
+C:\Users\Bestriess\source\repos\Svetofor\Svetofor\obj\Debug\Svetofor.pdb

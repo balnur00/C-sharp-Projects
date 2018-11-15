@@ -1,0 +1,7 @@
+C:\Users\Bestriess\source\repos\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Bestriess\source\repos\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Bestriess\source\repos\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Bestriess\source\repos\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Bestriess\source\repos\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Bestriess\source\repos\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Bestriess\source\repos\Delegates\Delegates\obj\Debug\Delegates.pdb

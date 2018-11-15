@@ -1,0 +1,14 @@
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\bin\Debug\MyDataBase.exe.config
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\bin\Debug\MyDataBase.exe
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\bin\Debug\MyDataBase.pdb
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\bin\Debug\Google.Protobuf.dll
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\bin\Debug\MySql.Data.dll
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\bin\Debug\Google.Protobuf.xml
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\bin\Debug\MySql.Data.xml
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\obj\Debug\MyDataBase.Form1.resources
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\obj\Debug\MyDataBase.Properties.Resources.resources
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\obj\Debug\MyDataBase.csproj.GenerateResource.Cache
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\obj\Debug\MyDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\obj\Debug\MyDataBase.exe
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\obj\Debug\MyDataBase.pdb
+C:\Users\Bestriess\source\repos\MyDataBase\MyDataBase\obj\Debug\MyDataBase.csprojResolveAssemblyReference.cache

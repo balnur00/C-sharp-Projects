@@ -1,0 +1,5 @@
+C:\Users\Bestriess\source\repos\DotProj\DotProj\obj\Debug\DotProj.csprojResolveAssemblyReference.cache
+C:\Users\Bestriess\source\repos\DotProj\DotProj\obj\Debug\DotProj.Form1.resources
+C:\Users\Bestriess\source\repos\DotProj\DotProj\obj\Debug\DotProj.Properties.Resources.resources
+C:\Users\Bestriess\source\repos\DotProj\DotProj\obj\Debug\DotProj.csproj.GenerateResource.Cache
+C:\Users\Bestriess\source\repos\DotProj\DotProj\obj\Debug\DotProj.csproj.CoreCompileInputs.cache

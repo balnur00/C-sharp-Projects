@@ -1,0 +1,10 @@
+c:\users\bestriess\source\repos\MyPaintApp\MyPaint\bin\Debug\MyPaint.exe.config
+c:\users\bestriess\source\repos\MyPaintApp\MyPaint\bin\Debug\MyPaint.exe
+c:\users\bestriess\source\repos\MyPaintApp\MyPaint\bin\Debug\MyPaint.pdb
+c:\users\bestriess\source\repos\MyPaintApp\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+c:\users\bestriess\source\repos\MyPaintApp\MyPaint\obj\Debug\MyPaint.Form1.resources
+c:\users\bestriess\source\repos\MyPaintApp\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+c:\users\bestriess\source\repos\MyPaintApp\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+c:\users\bestriess\source\repos\MyPaintApp\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+c:\users\bestriess\source\repos\MyPaintApp\MyPaint\obj\Debug\MyPaint.exe
+c:\users\bestriess\source\repos\MyPaintApp\MyPaint\obj\Debug\MyPaint.pdb

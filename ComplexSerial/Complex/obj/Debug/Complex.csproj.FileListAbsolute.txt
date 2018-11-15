@@ -1,0 +1,7 @@
+C:\Users\Bestriess\source\repos\ComplexSerial\Complex\bin\Debug\Complex.exe.config
+C:\Users\Bestriess\source\repos\ComplexSerial\Complex\bin\Debug\Complex.exe
+C:\Users\Bestriess\source\repos\ComplexSerial\Complex\bin\Debug\Complex.pdb
+C:\Users\Bestriess\source\repos\ComplexSerial\Complex\obj\Debug\Complex.csproj.CoreCompileInputs.cache
+C:\Users\Bestriess\source\repos\ComplexSerial\Complex\obj\Debug\Complex.exe
+C:\Users\Bestriess\source\repos\ComplexSerial\Complex\obj\Debug\Complex.pdb
+C:\Users\Bestriess\source\repos\ComplexSerial\Complex\obj\Debug\Complex.csprojResolveAssemblyReference.cache
